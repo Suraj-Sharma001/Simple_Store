@@ -1,1 +1,1 @@
-This inclide simpe shop store.
+This include simple shop store.
